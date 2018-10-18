@@ -1,0 +1,3 @@
+[submodule "External-Libraries/Spokestack"]
+	path = External-Libraries/Spokestack
+	url = https://github.com/kwylez/spokestack-ios.git
